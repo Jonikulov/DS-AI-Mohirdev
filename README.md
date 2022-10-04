@@ -1,2 +1,2 @@
-# DS-AI-Mohirdev
-Data Science &amp; Artificial Intelligence Practicum
+# DS-AI-MohirDev
+MohirDev Data Science &amp; Artificial Intelligence Practicum
