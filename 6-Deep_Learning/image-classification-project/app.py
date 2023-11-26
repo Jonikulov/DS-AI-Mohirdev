@@ -15,7 +15,8 @@ if platform.system() == 'Windows':
 st.title("Traffic Signs Classification Model")
 
 # model
-model = load_learner("traffic_signs_model.pkl")
+# model = load_learner("traffic_signs_model.pkl")
+model = load_learner("6-Deep_Learning/image-classification-project/traffic_signs_model.pkl")
 
 # image upload widget
 file = st.file_uploader(
