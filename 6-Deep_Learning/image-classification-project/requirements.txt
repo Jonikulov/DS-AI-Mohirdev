@@ -1,3 +1,5 @@
+numpy==1.24.2
+pandas==1.5.3
 fastai==2.7.12
 streamlit==1.21.0
 plotly==5.14.1
